@@ -2,7 +2,7 @@
   "name": "insta-near-v2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://safdarwaqar.github.io/InstaNear-V2",
+  "homepage": "https://safdarwaqar.github.io/insta-near",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
